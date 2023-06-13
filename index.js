@@ -3,6 +3,15 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
+  refresh_date: new Date().toLocaleDateString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'America/New_York',
+  }),
   name: 'Tanner',
   date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
