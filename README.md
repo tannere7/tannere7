@@ -1,3 +1,3 @@
-My name is Tanner and today is Friday, September 18, 6:50 AM EDT.
+My name is Tanner and today is Friday, September 18, 12:05 PM EDT.
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, September 18, 6:50 AM EDT<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, September 18, 12:05 PM EDT<br /></p>
